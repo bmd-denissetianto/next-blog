@@ -3,7 +3,7 @@ title: Isolasi Mandiri
 date: 2021-07-03
 ---
 
-### **Di Rumah?\_**
+### **_Di Rumah?_**
 
 - Ya, jika tersedia ruang tidur dan KM terpisah, ideal di Lt2.
   Kamar Mandi berventilasi, lebih baik kalau ada exhaust fan

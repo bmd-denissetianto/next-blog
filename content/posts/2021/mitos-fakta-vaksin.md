@@ -50,3 +50,9 @@ Biasanya dibutuhkan beberapa minggu bagi tubuh untuk membangun kekebalan (perlin
 **Tidak.** Siklus menstruasi Anda tidak dapat terpengaruh dengan berada di dekat seseorang yang menerima vaksin COVID-19.
 
 Banyak hal yang dapat memengaruhi siklus menstruasi, termasuk stres, perubahan jadwal, masalah tidur, dan perubahan pola makan atau olahraga. Infeksi juga dapat mempengaruhi siklus menstruasi.
+
+# Sumber
+
+[https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/facts.html)
+
+[halaman utama](/)

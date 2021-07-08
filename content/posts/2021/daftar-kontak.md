@@ -14,6 +14,6 @@ Daerahmu belum ada dalam list database? Atau ingin menambahkan informasi yang ad
 
 ### [KLIK DISINI !](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1RIcSiQqPCw-6H55QIYwblIQDPpFQmDNC73ukFa05J7c/edit?usp%3Dsharing&sa=D&source=editors&ust=1625737333226000&usg=AOvVaw2bjWTJQU2d_MWRyEDsccPP)
 
-[SUMBER: #wargabantuwarga](www.wargabantuwarga.com)
+[SUMBER: #wargabantuwarga](https://www.wargabantuwarga.com)
 
 [halaman utama](/)
